@@ -14,6 +14,7 @@
 		8DCD94122D30DB22005A0017 /* LearnClosure.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94112D30DB22005A0017 /* LearnClosure.swift */; };
 		8DCD94142D30E60B005A0017 /* LongPressGestureLern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94132D30E60B005A0017 /* LongPressGestureLern.swift */; };
 		8DCD94162D310EA4005A0017 /* MagnificationGestureLern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94152D310EA4005A0017 /* MagnificationGestureLern.swift */; };
+		8DCD94182D323E10005A0017 /* RotationGestureLern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94172D323E10005A0017 /* RotationGestureLern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		8DCD94112D30DB22005A0017 /* LearnClosure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnClosure.swift; sourceTree = "<group>"; };
 		8DCD94132D30E60B005A0017 /* LongPressGestureLern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressGestureLern.swift; sourceTree = "<group>"; };
 		8DCD94152D310EA4005A0017 /* MagnificationGestureLern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureLern.swift; sourceTree = "<group>"; };
+		8DCD94172D323E10005A0017 /* RotationGestureLern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotationGestureLern.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				8DCD94052D30DB06005A0017 /* ContentView.swift */,
 				8DCD94132D30E60B005A0017 /* LongPressGestureLern.swift */,
 				8DCD94152D310EA4005A0017 /* MagnificationGestureLern.swift */,
+				8DCD94172D323E10005A0017 /* RotationGestureLern.swift */,
 				8DCD94112D30DB22005A0017 /* LearnClosure.swift */,
 				8DCD94072D30DB07005A0017 /* Assets.xcassets */,
 				8DCD94092D30DB07005A0017 /* Preview Content */,
@@ -148,6 +151,7 @@
 			files = (
 				8DCD94142D30E60B005A0017 /* LongPressGestureLern.swift in Sources */,
 				8DCD94062D30DB06005A0017 /* ContentView.swift in Sources */,
+				8DCD94182D323E10005A0017 /* RotationGestureLern.swift in Sources */,
 				8DCD94122D30DB22005A0017 /* LearnClosure.swift in Sources */,
 				8DCD94042D30DB06005A0017 /* LearnBasicsApp.swift in Sources */,
 				8DCD94162D310EA4005A0017 /* MagnificationGestureLern.swift in Sources */,
