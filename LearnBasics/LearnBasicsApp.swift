@@ -11,7 +11,7 @@ import SwiftUI
 struct LearnBasicsApp: App {
     var body: some Scene {
         WindowGroup {
-            RotationGestureLern()
+            DreagGestureLern()
         }
     }
 }
