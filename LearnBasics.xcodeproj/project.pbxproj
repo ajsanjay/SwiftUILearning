@@ -18,6 +18,7 @@
 		8DCD941A2D3247A9005A0017 /* DreagGestureLern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94192D3247A9005A0017 /* DreagGestureLern.swift */; };
 		8DCD941C2D38E8E5005A0017 /* DragGestureLernAdvancd.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD941B2D38E8E5005A0017 /* DragGestureLernAdvancd.swift */; };
 		8DCD94202D3ECDAE005A0017 /* ScrollViewLern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD941F2D3ECDAE005A0017 /* ScrollViewLern.swift */; };
+		8DCD94222D40B5CA005A0017 /* GeometryLern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94212D40B5CA005A0017 /* GeometryLern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		8DCD94192D3247A9005A0017 /* DreagGestureLern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreagGestureLern.swift; sourceTree = "<group>"; };
 		8DCD941B2D38E8E5005A0017 /* DragGestureLernAdvancd.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureLernAdvancd.swift; sourceTree = "<group>"; };
 		8DCD941F2D3ECDAE005A0017 /* ScrollViewLern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewLern.swift; sourceTree = "<group>"; };
+		8DCD94212D40B5CA005A0017 /* GeometryLern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryLern.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				8DCD94192D3247A9005A0017 /* DreagGestureLern.swift */,
 				8DCD941B2D38E8E5005A0017 /* DragGestureLernAdvancd.swift */,
 				8DCD941F2D3ECDAE005A0017 /* ScrollViewLern.swift */,
+				8DCD94212D40B5CA005A0017 /* GeometryLern.swift */,
 				8DCD94112D30DB22005A0017 /* LearnClosure.swift */,
 				8DCD94072D30DB07005A0017 /* Assets.xcassets */,
 				8DCD94092D30DB07005A0017 /* Preview Content */,
@@ -162,6 +165,7 @@
 				8DCD941A2D3247A9005A0017 /* DreagGestureLern.swift in Sources */,
 				8DCD94062D30DB06005A0017 /* ContentView.swift in Sources */,
 				8DCD94182D323E10005A0017 /* RotationGestureLern.swift in Sources */,
+				8DCD94222D40B5CA005A0017 /* GeometryLern.swift in Sources */,
 				8DCD94122D30DB22005A0017 /* LearnClosure.swift in Sources */,
 				8DCD94042D30DB06005A0017 /* LearnBasicsApp.swift in Sources */,
 				8DCD941C2D38E8E5005A0017 /* DragGestureLernAdvancd.swift in Sources */,
