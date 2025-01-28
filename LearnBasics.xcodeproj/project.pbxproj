@@ -20,6 +20,7 @@
 		8DCD94202D3ECDAE005A0017 /* ScrollViewLern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD941F2D3ECDAE005A0017 /* ScrollViewLern.swift */; };
 		8DCD94222D40B5CA005A0017 /* GeometryLern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94212D40B5CA005A0017 /* GeometryLern.swift */; };
 		8DCD94242D421E42005A0017 /* GeometryInAdvancedLern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94232D421E42005A0017 /* GeometryInAdvancedLern.swift */; };
+		8DCD94282D474B67005A0017 /* SheetsLearn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD94272D474B67005A0017 /* SheetsLearn.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		8DCD941F2D3ECDAE005A0017 /* ScrollViewLern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewLern.swift; sourceTree = "<group>"; };
 		8DCD94212D40B5CA005A0017 /* GeometryLern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryLern.swift; sourceTree = "<group>"; };
 		8DCD94232D421E42005A0017 /* GeometryInAdvancedLern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryInAdvancedLern.swift; sourceTree = "<group>"; };
+		8DCD94272D474B67005A0017 /* SheetsLearn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsLearn.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				8DCD941F2D3ECDAE005A0017 /* ScrollViewLern.swift */,
 				8DCD94212D40B5CA005A0017 /* GeometryLern.swift */,
 				8DCD94232D421E42005A0017 /* GeometryInAdvancedLern.swift */,
+				8DCD94272D474B67005A0017 /* SheetsLearn.swift */,
 				8DCD94112D30DB22005A0017 /* LearnClosure.swift */,
 				8DCD94072D30DB07005A0017 /* Assets.xcassets */,
 				8DCD94092D30DB07005A0017 /* Preview Content */,
@@ -174,6 +177,7 @@
 				8DCD941C2D38E8E5005A0017 /* DragGestureLernAdvancd.swift in Sources */,
 				8DCD94162D310EA4005A0017 /* MagnificationGestureLern.swift in Sources */,
 				8DCD94202D3ECDAE005A0017 /* ScrollViewLern.swift in Sources */,
+				8DCD94282D474B67005A0017 /* SheetsLearn.swift in Sources */,
 				8DCD94242D421E42005A0017 /* GeometryInAdvancedLern.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
